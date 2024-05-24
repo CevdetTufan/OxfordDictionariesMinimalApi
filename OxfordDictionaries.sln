@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OxfordDictionaries.Api", "OxfordDictionaries.Api\OxfordDictionaries.Api.csproj", "{34967922-0E80-47C4-A310-FADEEB5BC021}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OxfordDictionariesHttpClient", "OxfordDictionariesHttpClient\OxfordDictionariesHttpClient.csproj", "{5CCE2B9F-B3B7-4098-A956-0DAC16146660}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{34967922-0E80-47C4-A310-FADEEB5BC021}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34967922-0E80-47C4-A310-FADEEB5BC021}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34967922-0E80-47C4-A310-FADEEB5BC021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CCE2B9F-B3B7-4098-A956-0DAC16146660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CCE2B9F-B3B7-4098-A956-0DAC16146660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CCE2B9F-B3B7-4098-A956-0DAC16146660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CCE2B9F-B3B7-4098-A956-0DAC16146660}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

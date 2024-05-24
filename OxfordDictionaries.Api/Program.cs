@@ -1,9 +1,23 @@
+using OxfordDictionariesHttpClient;
+using OxfordDictionariesHttpClient.Interfaces;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddHttpClient("OxfordDictionaries", client =>
+{
+	client.BaseAddress = new Uri("https://od-api.oxforddictionaries.com/api/v2/");
+	client.DefaultRequestHeaders.Add("app_id", "YOUR_APP_ID");
+	client.DefaultRequestHeaders.Add("app_key", "YOUR_APP_KEY");
+});
+
+builder.Services.AddTransient<IHttpGet, HttpClientHelper>();
+builder.Services.AddTransient<IHttpPost, HttpClientHelper>();
+
 
 var app = builder.Build();
 
