@@ -1,3 +1,5 @@
+using Microsoft.Extensions.Options;
+using OxfordDictionaries.Api.Models;
 using OxfordDictionariesHttpClient;
 using OxfordDictionariesHttpClient.Interfaces;
 
@@ -8,15 +10,16 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddHttpClient("OxfordDictionaries", client =>
+builder.Services.Configure<HttpClientSettings>(builder.Configuration.GetSection("HttpClientSettings"));
+
+builder.Services.AddHttpClient<IHttpGet, HttpClientHelper>((sp, client) =>
 {
-	client.BaseAddress = new Uri("https://od-api.oxforddictionaries.com/api/v2/");
-	client.DefaultRequestHeaders.Add("app_id", "YOUR_APP_ID");
-	client.DefaultRequestHeaders.Add("app_key", "YOUR_APP_KEY");
+	var httpClientSettings = sp.GetRequiredService<IOptions<HttpClientSettings>>().Value;
+	client.BaseAddress = new Uri(httpClientSettings.BaseAddress);
+	client.DefaultRequestHeaders.Add("app_id", httpClientSettings.AppId);
+	client.DefaultRequestHeaders.Add("app_key", httpClientSettings.AppKey);
 });
 
-builder.Services.AddTransient<IHttpGet, HttpClientHelper>();
-builder.Services.AddTransient<IHttpPost, HttpClientHelper>();
 
 
 var app = builder.Build();
@@ -28,6 +31,7 @@ if (app.Environment.IsDevelopment())
 	app.UseSwaggerUI();
 }
 
+#region Example
 var summaries = new[]
 {
 	"Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
@@ -47,6 +51,17 @@ app.MapGet("/weatherforecast", () =>
 })
 .WithName("GetWeatherForecast")
 .WithOpenApi();
+#endregion
+
+app.MapGet("/words", async (IHttpGet httpGet) =>
+{
+	var result = httpGet.GetAsync<string>("words/en-gb?q=about", null).Result;
+
+
+
+	return Results.Ok(result);
+
+});
 
 app.Run();
 
@@ -54,3 +69,4 @@ internal record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary
 {
 	public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
 }
+

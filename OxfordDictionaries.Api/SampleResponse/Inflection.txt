@@ -1,0 +1,41 @@
+﻿{
+  "id": "about",
+  "metadata": {
+    "operation": "retrieve",
+    "provider": "Oxford University Press",
+    "schema": "Inflections"
+  },
+  "results": [
+    {
+      "id": "about",
+      "language": "en-gb",
+      "lexicalEntries": [
+        {
+          "inflections": [
+            {
+              "inflectedForm": "about"
+            }
+          ],
+          "language": "eng",
+          "lexicalCategory": {
+            "id": "preposition",
+            "text": "Preposition"
+          }
+        },
+        {
+          "inflections": [
+            {
+              "inflectedForm": "about"
+            }
+          ],
+          "language": "eng",
+          "lexicalCategory": {
+            "id": "adverb",
+            "text": "Adverb"
+          }
+        }
+      ],
+      "text": "about"
+    }
+  ]
+}

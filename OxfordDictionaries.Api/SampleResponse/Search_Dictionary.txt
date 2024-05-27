@@ -1,0 +1,136 @@
+﻿{
+  "metadata": {
+    "limit": "5000",
+    "offset": "0",
+    "operation": "search",
+    "provider": "Oxford University Press",
+    "schema": "WordList",
+    "sourceLanguage": "en-gb",
+    "total": "14"
+  },
+  "results": [
+    {
+      "id": "about",
+      "label": "about",
+      "matchString": "about",
+      "matchType": "headword",
+      "region": "gb",
+      "score": 122.496346,
+      "word": "about"
+    },
+    {
+      "id": "about-sledge",
+      "label": "about-sledge",
+      "matchString": "about",
+      "matchType": "headword",
+      "score": 46.48935,
+      "word": "about-sledge"
+    },
+    {
+      "id": "about-face",
+      "label": "about-face",
+      "matchString": "about",
+      "matchType": "headword",
+      "region": "gb",
+      "score": 32.4035,
+      "word": "about-face"
+    },
+    {
+      "id": "about-turn",
+      "label": "about-turn",
+      "matchString": "about",
+      "matchType": "headword",
+      "region": "gb",
+      "score": 32.4035,
+      "word": "about-turn"
+    },
+    {
+      "id": "along_about",
+      "label": "along about",
+      "matchString": "about",
+      "matchType": "headword",
+      "region": "gb",
+      "score": 32.4035,
+      "word": "along about"
+    },
+    {
+      "id": "that%27s_about_it",
+      "label": "that's about it",
+      "matchString": "about",
+      "matchType": "headword",
+      "region": "gb",
+      "score": 25.790546,
+      "word": "that's about it"
+    },
+    {
+      "id": "be_all_about_%E2%80%94",
+      "label": "be all about —",
+      "matchString": "about",
+      "matchType": "headword",
+      "region": "gb",
+      "score": 25.790546,
+      "word": "be all about —"
+    },
+    {
+      "id": "arse_about_face",
+      "label": "arse about face",
+      "matchString": "about",
+      "matchType": "headword",
+      "region": "gb",
+      "score": 25.790546,
+      "word": "arse about face"
+    },
+    {
+      "id": "know_what_one_is_about",
+      "label": "know what one is about",
+      "matchString": "about",
+      "matchType": "headword",
+      "region": "gb",
+      "score": 18.315025,
+      "word": "know what one is about"
+    },
+    {
+      "id": "be_about_to_do_something",
+      "label": "be about to do something",
+      "matchString": "about",
+      "matchType": "headword",
+      "region": "gb",
+      "score": 18.315025,
+      "word": "be about to do something"
+    },
+    {
+      "id": "be_not_about_to_do_something",
+      "label": "be not about to do something",
+      "matchString": "about",
+      "matchType": "headword",
+      "region": "gb",
+      "score": 15.996666,
+      "word": "be not about to do something"
+    },
+    {
+      "id": "aboutness",
+      "label": "aboutness",
+      "matchString": "about",
+      "matchType": "normalised",
+      "score": 8.474531,
+      "word": "aboutness"
+    },
+    {
+      "id": "abouts",
+      "label": "abouts",
+      "matchString": "about",
+      "matchType": "normalised",
+      "score": 8.474531,
+      "word": "abouts"
+    },
+    {
+      "id": "arse_around",
+      "label": "arse around",
+      "matchString": "about",
+      "matchType": "variantForm",
+      "region": "gb",
+      "score": 5.741644,
+      "word": "arse around"
+    }
+  ]
+}

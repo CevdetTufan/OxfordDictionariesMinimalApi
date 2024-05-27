@@ -1,0 +1,707 @@
+﻿{
+  "id": "about",
+  "metadata": {
+    "operation": "retrieve",
+    "provider": "Oxford University Press",
+    "schema": "SentencesResults"
+  },
+  "results": [
+    {
+      "id": "about",
+      "language": "en-gb",
+      "lexicalEntries": [
+        {
+          "language": "en-gb",
+          "lexicalCategory": {
+            "id": "preposition",
+            "text": "Preposition"
+          },
+          "sentences": [
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.006"
+              ],
+              "text": "This is a subject of modern concern about which classical Buddhist sources have little to say."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.006"
+              ],
+              "text": "That letter set out at some length Mr Carroll's concerns about a number of subjects."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.006"
+              ],
+              "text": "Why write a scientific book about a subject best left to poets and songwriters?"
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.006"
+              ],
+              "text": "It's a good kids and adult cartoon book, all about the triumph of good over evil."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.006"
+              ],
+              "text": "So impassioned am I about Croydon that I have put together a poetry book all about it."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.006"
+              ],
+              "text": "This is the only reason that should be regarded when talking about this subject."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.006"
+              ],
+              "text": "I am mostly concerned about the amount of exhaust fumes we are being subjected to."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.006"
+              ],
+              "text": "In America, the book has chimed with concern about corruption in the Catholic Church."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.006"
+              ],
+              "text": "As far as Basques who are not too fussed about their food are concerned, using a recipe book is cheating."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.006"
+              ],
+              "text": "It quickly came in the form of a book on the subject, Girls Night In, or rather an article about the book."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.006"
+              ],
+              "text": "He suggests that such evasiveness often occurs because of concerns about giving away the plot."
+            },
+            {
+              "regions": [
+                {
+                  "id": "east_asian",
+                  "text": "East Asian"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.006"
+              ],
+              "text": "There is much more to say about this subject, but that has to wait for another time."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.006"
+              ],
+              "text": "I'm not too concerned about the exam, just looking forwards to getting it over and done with."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.006"
+              ],
+              "text": "Even if you don't know about the subject matter, you can apply the generic skills to any business."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.006"
+              ],
+              "text": "What we will have to settle for, at best, is a frank debate about some of the subjects raised by Mind the Gap."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.006"
+              ],
+              "text": "Good biopics struggle to present a truth, if not the truth, about their subjects."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.006"
+              ],
+              "text": "It is really immaterial how much we are promised about the good intentions of the new owners."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.006"
+              ],
+              "text": "However a spokesman for the firm declined to give any information about its intentions."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.006"
+              ],
+              "text": "Yet this is not all - the nature and placing of these units can say a lot about your intentions."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.006"
+              ],
+              "text": "Today I would like to tell you a little more about what is involved and what I do."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.008"
+              ],
+              "text": "The argument now is about how badly we will be affected and whether it is too late to do anything about it."
+            },
+            {
+              "regions": [
+                {
+                  "id": "north_american",
+                  "text": "North American"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.008"
+              ],
+              "text": "But what caused the cancer in the first place, and what can we do about it?"
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.008"
+              ],
+              "text": "We now have a better understanding as to why the firm is not accelerating in a growing marketplace, and what it is doing about it."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.008"
+              ],
+              "text": "Stephanie says that unless she did something about her weight, she would just carry on piling on the pounds."
+            },
+            {
+              "regions": [
+                {
+                  "id": "north_american",
+                  "text": "North American"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.008"
+              ],
+              "text": "The system is rubbish, but there's nothing I can do about that."
+            },
+            {
+              "regions": [
+                {
+                  "id": "north_american",
+                  "text": "North American"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.011"
+              ],
+              "text": "He paused, looked about himself for a moment, and sighed."
+            },
+            {
+              "regions": [
+                {
+                  "id": "north_american",
+                  "text": "North American"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.011"
+              ],
+              "text": "I paused, gazing about the room, watching carefully for any sign of movement."
+            },
+            {
+              "regions": [
+                {
+                  "id": "north_american",
+                  "text": "North American"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.011"
+              ],
+              "text": "While some men can wander about a hardware store for an hour, I can kill 60 minutes or more in a kitchen supply place."
+            },
+            {
+              "regions": [
+                {
+                  "id": "north_american",
+                  "text": "North American"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.011"
+              ],
+              "text": "They strolled about the gardens, enjoying the beautiful day."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.011"
+              ],
+              "text": "I should like to walk about my city again without being subjected to foul-mouthed racist abuse."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.013"
+              ],
+              "text": "Residents near the play area are being disturbed by noise, and beer cans have been left about the area."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.014"
+              ],
+              "text": "Seen from the air in the lemony light of dawn, the place has an almost mystical quality about it."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.014"
+              ],
+              "text": "There was a film noir quality about that piece of managerial advice, and it fitted the times."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.014"
+              ],
+              "text": "The French veteran has a grace about his movement which seems to mesmerise opponents."
+            },
+            {
+              "regions": [
+                {
+                  "id": "north_american",
+                  "text": "North American"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.014"
+              ],
+              "text": "The girl's eyes had a blank look about them."
+            },
+            {
+              "regions": [
+                {
+                  "id": "north_american",
+                  "text": "North American"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.014"
+              ],
+              "text": "He was friendly, with a gentle way about him and the wisdom that came with age."
+            }
+          ],
+          "text": "about"
+        }
+      ],
+      "type": "headword",
+      "word": "about"
+    },
+    {
+      "id": "about",
+      "language": "en-gb",
+      "lexicalEntries": [
+        {
+          "language": "en-gb",
+          "lexicalCategory": {
+            "id": "adverb",
+            "text": "Adverb"
+          },
+          "sentences": [
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.017",
+                "b-en-es0000107.005"
+              ],
+              "text": "They emptied the pool of its water by splashing about and then threw toys and sand into it."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.017",
+                "b-en-es0000107.005"
+              ],
+              "text": "What does swimming about and spontaneously singing bits of the Batman theme song mean?"
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.017",
+                "b-en-es0000107.005"
+              ],
+              "text": "You go in feet first - there's enough room to move about and then come out head first."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.017",
+                "b-en-es0000107.005"
+              ],
+              "text": "The day was too warm and too nice for rushing about."
+            },
+            {
+              "regions": [
+                {
+                  "id": "indian",
+                  "text": "Indian"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.017",
+                "b-en-es0000107.005"
+              ],
+              "text": "A small space was fenced off so that the lion could move about, unhindered."
+            },
+            {
+              "regions": [
+                {
+                  "id": "irish",
+                  "text": "Irish"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.020",
+                "b-en-es0000107.008"
+              ],
+              "text": "The site was overgrown and there was refuse strewn about the area."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.020",
+                "b-en-es0000107.008"
+              ],
+              "text": "Houdini relied on great skill, low cunning, and keeping tiny metal picklocks concealed about his person."
+            },
+            {
+              "regions": [
+                {
+                  "id": "north_american",
+                  "text": "North American"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.020",
+                "b-en-es0000107.008"
+              ],
+              "text": "I have friends scattered about Australia."
+            },
+            {
+              "regions": [
+                {
+                  "id": "north_american",
+                  "text": "North American"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.020",
+                "b-en-es0000107.008"
+              ],
+              "text": "Couches, armchairs and tables were scattered about the place."
+            },
+            {
+              "senseIds": [
+                "m_en_gbus0002550.020",
+                "b-en-es0000107.008"
+              ],
+              "text": "She had scars all about her body and face."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.020",
+                "b-en-es0000107.008"
+              ],
+              "text": "She looked inside to find the contents scattered about and then heard noises upstairs."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.022",
+                "b-en-es0000107.002"
+              ],
+              "text": "A lot of us got out and waited for the emergency services, who arrived within about ten minutes."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.022",
+                "b-en-es0000107.002"
+              ],
+              "text": "Arab traders took Islam to the area in about the twelfth century, possibly even earlier."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.022",
+                "b-en-es0000107.002"
+              ],
+              "text": "I read the graphic and then saw the film all within about a week of each other."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.022",
+                "b-en-es0000107.002"
+              ],
+              "text": "They held up movements for about eight hours and the road was effectively closed."
+            },
+            {
+              "regions": [
+                {
+                  "id": "british",
+                  "text": "British"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.022",
+                "b-en-es0000107.002"
+              ],
+              "text": "Plane Tree Grove is a residential area about a quarter of a mile from the airport."
+            },
+            {
+              "regions": [
+                {
+                  "id": "north_american",
+                  "text": "North American"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.022",
+                "b-en-es0000107.002"
+              ],
+              "text": "I spent about twenty minutes reading the wrong manual until JoAnn tactfully pointed out the mistake."
+            },
+            {
+              "regions": [
+                {
+                  "id": "north_american",
+                  "text": "North American"
+                }
+              ],
+              "senseIds": [
+                "m_en_gbus0002550.022",
+                "b-en-es0000107.002"
+              ],
+              "text": "I get about five emails per day from them."
+            }
+          ],
+          "text": "about"
+        }
+      ],
+      "type": "headword",
+      "word": "about"
+    }
+  ],
+  "word": "about"
+}

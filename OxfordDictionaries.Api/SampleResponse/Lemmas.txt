@@ -1,0 +1,42 @@
+﻿{
+  "metadata": {
+    "provider": "Oxford University Press"
+  },
+  "results": [
+    {
+      "id": "about",
+      "language": "en",
+      "lexicalEntries": [
+        {
+          "inflectionOf": [
+            {
+              "id": "about",
+              "text": "about"
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": {
+            "id": "preposition",
+            "text": "Preposition"
+          },
+          "text": "about"
+        },
+        {
+          "inflectionOf": [
+            {
+              "id": "about",
+              "text": "about"
+            }
+          ],
+          "language": "en",
+          "lexicalCategory": {
+            "id": "adverb",
+            "text": "Adverb"
+          },
+          "text": "about"
+        }
+      ],
+      "word": "about"
+    }
+  ]
+}
