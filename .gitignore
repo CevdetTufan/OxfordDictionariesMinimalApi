@@ -363,4 +363,4 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # Ignore appsettings.Development.json
-appsettings.Development.json
+OxfordDictionaries.Api/appsettings.Development.json
