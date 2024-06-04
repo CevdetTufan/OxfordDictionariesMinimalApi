@@ -12,7 +12,7 @@ namespace OxfordDictionariesHttpClient
 		{
 			_httpClient = httpClient;
 		}
-		public async Task<T> GetAsync<T>(string url, IDictionary<string, string> headers = null)
+		public async Task<TResponse> GetAsync<TResponse>(string url, IDictionary<string, string> headers = null)
 		{
 			if (headers != null)
 			{
@@ -22,11 +22,11 @@ namespace OxfordDictionariesHttpClient
 				}
 			}
 
-			HttpResponseMessage response = await _httpClient.GetAsync(url);
+			HttpResponseMessage response = await _httpClient.GetAsync($"{_httpClient.BaseAddress.AbsoluteUri}/{url}");
 			response.EnsureSuccessStatusCode();
 
 			string responseData = await response.Content.ReadAsStringAsync();
-			T result = JsonConvert.DeserializeObject<T>(responseData);
+			TResponse result = JsonConvert.DeserializeObject<TResponse>(responseData);
 			return result;
 		}
 
